@@ -20,7 +20,7 @@ This repository contains Python implementations of fundamental machine learning 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/machine-learning-algorithms.git
+   git clone https://github.com/manibp/ML-algorithms-from-scratch.git
 
 2. Navigate to the project directory
    cd machine-learning-algorithms
