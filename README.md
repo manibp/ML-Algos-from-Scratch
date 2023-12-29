@@ -13,7 +13,7 @@ This repository contains Python implementations of fundamental machine learning 
 
 ### Prerequisites
 
-- Python (3.x recommended)
+- Python (3.10 recommended)
 - Dependencies (NumPy, pandas, matplotlib, etc.)
 
 ### Installation
